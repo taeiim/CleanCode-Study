@@ -2,15 +2,15 @@
 Clean Code - 애자일 소프트웨어 장인 정신 by Robert C. Martin
 </br></br>
 ## Index
-1장. 깨끗한 코드 
+1장. [깨끗한 코드](Clean%20Code/Clean%20Code%201%EC%9E%A5.%20%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md) 
 
 2장. 의미 있는 이름
 
 3장. 함수
 
-4장. 주석
+4장. [주석](Clean%20Code/Clean%20Code%204%EC%9E%A5.%20%EC%A3%BC%EC%84%9D.md)
 
-5장. 형식 맞추기
+5장. [형식 맞추기](Clean%20Code/Clean%20Code%205%EC%9E%A5.%20%ED%98%95%EC%8B%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0.md)
 
 6장. 객체와 자료 구조
 
