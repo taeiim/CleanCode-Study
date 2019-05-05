@@ -12,9 +12,9 @@ Clean Code - 애자일 소프트웨어 장인 정신 by Robert C. Martin
 
 5장. [형식 맞추기](Clean%20Code/Clean%20Code%205%EC%9E%A5.%20%ED%98%95%EC%8B%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0.md)
 
-6장. 객체와 자료 구조
+6장. [객체와 자료 구조](Clean%20Code/Clean%20Code%206%EC%9E%A5.%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 
-7장. 오류 처리
+7장. [오류 처리](Clean%20Code/Clean%20Code%207장.%20오류%20처리.md)
 
 8장. 경계
 
