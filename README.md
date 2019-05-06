@@ -16,7 +16,7 @@ Clean Code - 애자일 소프트웨어 장인 정신 by Robert C. Martin
 
 7장. [오류 처리](Clean%20Code/Clean%20Code%207장.%20오류%20처리.md)
 
-8장. 경계
+8장. [경계](Clean%20Code/Clean%20Code%208%EC%9E%A5.%20%EA%B2%BD%EA%B3%84.md)
 
 9장. 단위 테스트
 
